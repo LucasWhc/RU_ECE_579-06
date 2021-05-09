@@ -1,0 +1,46 @@
+\begin{thebibliography}{1}
+
+\bibitem{cross}
+Cross-entropy function, 2021.
+\newblock \url{https://en.wikipedia.org/wiki/Cross_entropy}.
+
+\bibitem{fcnn}
+Fully connected neural network, 2021.
+\newblock
+  \url{https://radiopaedia.org/articles/fully-connected-neural-network}.
+
+\bibitem{gradient}
+Gradient descent, 2021.
+\newblock \url{https://en.wikipedia.org/wiki/Gradient_descent}.
+
+\bibitem{nn}
+Neural network, 2021.
+\newblock \url{https://en.wikipedia.org/wiki/Neural_network}.
+
+\bibitem{relu}
+Relu function, 2021.
+\newblock \url{https://en.wikipedia.org/wiki/Rectifier_(neural_networks)}.
+
+\bibitem{softmax}
+Softmax function, 2021.
+\newblock \url{https://en.wikipedia.org/wiki/Softmax_function}.
+
+\bibitem{deng2015synchronous}
+E.~Deng, Y.~Zhang, W.~Kang, B.~Dieny, J.-O. Klein, G.~Prenat, and W.~Zhao.
+\newblock Synchronous 8-bit non-volatile full-adder based on spin transfer
+  torque magnetic tunnel junction.
+\newblock {\em IEEE Transactions on Circuits and Systems I: Regular Papers},
+  62(7):1757--1765, 2015.
+
+\bibitem{lecun1998mnist}
+Y.~LeCun.
+\newblock The mnist database of handwritten digits.
+\newblock {\em http://yann. lecun. com/exdb/mnist/}, 1998.
+
+\bibitem{lecun1988theoretical}
+Y.~LeCun, D.~Touresky, G.~Hinton, and T.~Sejnowski.
+\newblock A theoretical framework for back-propagation.
+\newblock In {\em Proceedings of the 1988 connectionist models summer school},
+  volume~1, pages 21--28, 1988.
+
+\end{thebibliography}

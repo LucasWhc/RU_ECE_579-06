@@ -1,0 +1,13 @@
+\BOOKMARK [1][-]{section.1}{Introduction}{}% 1
+\BOOKMARK [1][-]{section.2}{Related\040Work}{}% 2
+\BOOKMARK [2][-]{subsection.2.1}{Gradient\040Descent}{section.2}% 3
+\BOOKMARK [2][-]{subsection.2.2}{Backpropagation}{section.2}% 4
+\BOOKMARK [1][-]{section.3}{Description\040of\040Dataset,\040Method\040and\040Model}{}% 5
+\BOOKMARK [2][-]{subsection.3.1}{Dataset}{section.3}% 6
+\BOOKMARK [2][-]{subsection.3.2}{Method}{section.3}% 7
+\BOOKMARK [3][-]{subsubsection.3.2.1}{ReLu\040Function}{subsection.3.2}% 8
+\BOOKMARK [3][-]{subsubsection.3.2.2}{Softmax\040Function}{subsection.3.2}% 9
+\BOOKMARK [3][-]{subsubsection.3.2.3}{Loss\040Function}{subsection.3.2}% 10
+\BOOKMARK [2][-]{subsection.3.3}{Model}{section.3}% 11
+\BOOKMARK [1][-]{section.4}{Experimental\040Procedure\040and\040Results}{}% 12
+\BOOKMARK [1][-]{section.5}{Conclusion}{}% 13
